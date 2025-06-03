@@ -1,0 +1,1 @@
+# Waste-Classifier-AI-model
